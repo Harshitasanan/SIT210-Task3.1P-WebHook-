@@ -33,10 +33,10 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 char ssid[] = "Harshita 13";
-char pass[] = "Sananharshita20";
+char pass[] = "****";
 
 unsigned long myChannelNumber = 2249122;
-const char *myWriteAPIKey = "QTW9NGIVLEAXRNKS";
+const char *myWriteAPIKey = "****";
 
 WiFiClient client;
 
